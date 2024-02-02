@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: rgb(87, 179, 200);
+    font-size: 20px;
+}
+.botcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 350px;
+}
+.topcloud{
+    position: absolute;
+    right: 400px;   
+    top: 50px;
+}
+.top{
+    padding-top: 100px;
+    background-color: rgb(87, 179, 200);
+    font-family: 'Rubik Pixels', cursive;
+}
+.title{
+    font-family: 'Tilt Prism', cursive;
+}
+.comp{
+    border-radius: 50%;
+}
+h1{
+font-size: 500%;
+}
+h2{
+    font-size: large;
+}
+.profile img {
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+  }
